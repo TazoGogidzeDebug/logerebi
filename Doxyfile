@@ -1,0 +1,9 @@
+
+PROJECT_NAME           = "SimpleLogger"
+OUTPUT_DIRECTORY       = docs
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+JAVADOC_AUTOBRIEF      = YES
+INPUT                  = src
+FILE_PATTERNS          = *.java
+GENERATE_LATEX         = NO
